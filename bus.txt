@@ -1,0 +1,4 @@
+bus_1,a111aa18,MAZ-103
+bus_2,b222bb18,LiAZ-5256
+bus_3,k333kk18,NeFAZ-5299
+bus_4,c444cc18,LiAZ-5292 
