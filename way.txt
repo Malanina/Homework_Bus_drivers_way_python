@@ -1,0 +1,4 @@
+way_1,bus_1,Stankostroi - Malinovaya gora
+way_2,bus_2,Sobor A.Nevskogo - st.Furmanova
+way_3,bus_2,park im.Kirova - Avtozavod
+way_4,bus_3,st. K.Gerda - Rembitteshnica
